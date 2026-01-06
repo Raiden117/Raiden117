@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-雷電-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunm-kl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-雷電-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/krishnanipun)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunm.mallela@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-武器庫-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](#)
 
@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## 🎮 武士道 | THE WAY OF THE WARRIOR
+## フルスタック・デベロッパー| Full Stack Developer
 
 <img align="right" alt="Coding Samurai" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
