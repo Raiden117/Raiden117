@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=雷電117&fontSize=80&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=THE%20CODER%20WARRIOR&descAlignY=55&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=雷電117&fontSize=80&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=THE%20FULL-STACK%20DEVELOPER&descAlignY=55&descSize=25" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E3%80%8E+%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%88%A6%E5%A3%AB+%7C+Warrior+of+Code+%E3%80%8F;In+the+realm+where+silicon+meets+spirit..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E3%80%8E+%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%88%A6%E5%A3%AB+%7C+Full-Stack+developer+%E3%80%8F;In+the+realm+where+silicon+meets+spirit..." alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -33,14 +33,6 @@ const raiden = {
     rank: "Full Stack Samurai | CGPA: 9.53",
     dojo: "K L University (2023–2027)",
     
-    philosophy: {
-        code: "Write code that echoes through eternity",
-        games: "Every game is a battle; every bug is an enemy",
-        learning: "永遠の学生 | Eternal Student"
-    },
-    
-    currentQuest: "Mastering the MERN Shogunate",
-    nextBoss: "Cybersecurity & Game Development"
 };
 ```
 
